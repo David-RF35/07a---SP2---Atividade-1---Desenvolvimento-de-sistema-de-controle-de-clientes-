@@ -1,0 +1,14 @@
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\bin\Debug\net8.0\atividade.exe
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\bin\Debug\net8.0\atividade.deps.json
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\bin\Debug\net8.0\atividade.runtimeconfig.json
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\bin\Debug\net8.0\atividade.dll
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\bin\Debug\net8.0\atividade.pdb
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\obj\Debug\net8.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\obj\Debug\net8.0\atividade.AssemblyInfoInputs.cache
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\obj\Debug\net8.0\atividade.AssemblyInfo.cs
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\obj\Debug\net8.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\obj\Debug\net8.0\atividade.dll
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\obj\Debug\net8.0\refint\atividade.dll
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\obj\Debug\net8.0\atividade.pdb
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\obj\Debug\net8.0\atividade.genruntimeconfig.cache
+C:\Users\Yves\Documents\Curso fullstack senai\Backend\_SENAI\atividade\obj\Debug\net8.0\ref\atividade.dll
